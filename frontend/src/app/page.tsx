@@ -2,7 +2,7 @@ import React from "react";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 import ProductCard from "@/components/ProductCard";
-import { Search, ShoppingBasket, Funnel, Heart, View } from "lucide-react";
+import { Search, ShoppingBasket, MessageCircle } from "lucide-react";
 
 export default function Home() {
   const products = [
